@@ -1,3 +1,8 @@
-Creating a new branch is quick.
+<<<<<<< HEAD
+Creating new branch is quick and simple.
+=======
+Creating new branch is quick.
 weila
 
+>>>>>>> dev
+oooooooooooo
